@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68c93b76616dfde4ba7174de127d3a48, type: 3}
+  m_Name: Cognitive3D_Preferences
+  m_EditorClassIdentifier: 
+  Protocol: https
+  Gateway: data.cognitive3d.com
+  Dashboard: app.cognitive3d.com
+  Viewer: viewer.cognitive3d.com/scene/
+  Documentation: docs.cognitive3d.com
+  EditorHasDisplayedPopup: 1
+  GazeType: 0
+  ApplicationKey: TI54BAA1P58NINM463SSR241J7MY1NR8
+  AttributionKey: 
+  EnableLogging: 1
+  EnableDevLogging: 0
+  EnableGaze: 1
+  DynamicObjectSearchInParent: 1
+  TrackGPSLocation: 0
+  GPSAccuracy: 2
+  RecordFloorPosition: 1
+  GazeLayerMask: -1
+  DynamicLayerMask: -1
+  TriggerInteraction: 1
+  GazeSnapshotCount: 256
+  SensorSnapshotCount: 512
+  DynamicSnapshotCount: 512
+  EventDataThreshold: 256
+  FixationSnapshotCount: 256
+  BoundarySnapshotCount: 64
+  AutomaticSendTimer: 10
+  LocalDataCacheSize: 104857600
+  LocalStorage: 1
+  UploadCacheOnEndPlay: 1
+  IncludeDisabledDynamicObjects: 1
+  TextureResize: 2
+  ExportSceneLODLowest: 1
+  sceneSettings:
+  - SceneName: SampleScene
+    SceneId: 79846c5a-7514-4ca2-a7b0-c97c90951fc9
+    ScenePath: Assets/Scenes/SampleScene.unity
+    LastRevision: 01/25/2025 20:00:23
+    VersionNumber: 2
+    VersionId: 7721
+  - SceneName: SampleScene
+    SceneId: 8ea0cc48-ecb6-48e8-8ff7-58053bb3bfbf
+    ScenePath: Assets/(name_conflict)_Scenes_dst/SampleScene.unity
+    LastRevision: 01/25/2025 20:00:03
+    VersionNumber: 1
+    VersionId: 7717
+  - SceneName: Showcase
+    SceneId: 10883d80-4ae1-4036-978d-e36a3b82fc77
+    ScenePath: Assets/Alstra Infinite/Planes LowPoly/Scene/Showcase.unity
+    LastRevision: 01/25/2025 20:00:05
+    VersionNumber: 1
+    VersionId: 7718
+  - SceneName: DemoScene
+    SceneId: 2a6fdec4-f6bf-47de-bdb8-41f6dfe49258
+    ScenePath: Assets/Old Hangar/Demo/DemoScene.unity
+    LastRevision: 01/25/2025 20:00:11
+    VersionNumber: 1
+    VersionId: 7719
+  - SceneName: DemoScene
+    SceneId: c029abc4-0749-456a-9a15-3e783def08ad
+    ScenePath: Assets/Samples/XR Interaction Toolkit/2.6.3/Starter Assets/DemoScene.unity
+    LastRevision: 01/25/2025 20:00:14
+    VersionNumber: 1
+    VersionId: 7720
+  - SceneName: Demo
+    SceneId: 16a155c6-90a5-4274-8927-0180f8b75c0e
+    ScenePath: Assets/Simpligon Vehicles Air/Scene/Demo.unity
+    LastRevision: 01/25/2025 20:00:29
+    VersionNumber: 1
+    VersionId: 7722
+  - SceneName: DemoScene
+    SceneId: 767644e0-a214-4d80-9da5-d54e289e6383
+    ScenePath: Assets/WorldSkies/Demo/DemoScene.unity
+    LastRevision: 01/25/2025 20:00:31
+    VersionNumber: 1
+    VersionId: 7723
