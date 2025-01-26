@@ -1,8 +1,8 @@
-# MIT Reality Hack
+# MIT Reality Hack 2025
 ## 🥽 HangarPRO VR
 ### Aerospacial Exploration
 
-HangarPro VR is a VR training simulation powered by Cognitive 3D, designed to enhance pre-flight safety and reliability. It equips maintenance teams with the skills to identify micro-tears on aircraft exteriors through the innovative Visual Interaction Analysis (VIA) methodology. VIA offers a groundbreaking approach to analyzing complex microscopic interactions, uncovering critical insights hidden within vast data sets.
+HangarPro VR is a cutting-edge virtual reality training platform designed to address the critical shortage of skilled aircraft mechanics and improve aviation safety. By leveraging immersive technology, HangarPro VR provides mechanics with realistic, hands-on training in a risk-free virtual environment, preparing them to tackle real-world challenges with confidence.
 
 ☆ Built using Unity and <a href='https://app.cognitive3d.com/'> Cognitive 3D </a> for utilizing advanced eye-tracking technology within immersive virtual reality (VR).
 
@@ -19,11 +19,11 @@ HangarPro VR is a VR training simulation powered by Cognitive 3D, designed to en
 
 ## 💢 Problem
 
-Pre-flight maintenance checks are crucial in ensuring the safety for all passengers, however can be overlooked leading to detrimental incidents.
+The aviation industry faces a severe shortage of mechanics, with over 600,000 needed globally in the next two decades. High-profile mechanical failures, such as wheel blowouts and landing gear issues, highlight the need for better training solutions to ensure safety and reliability.
 
 ## 💡 Solution
 
-For our project we used VR tools integrated with Cognitive 3D to create a VR pre-flight check for maintenance workers specifically when checking micro-tears on the external parts of the plane before take off.
+**HangarPro VR provides a realistic, hands-on virtual training environment** that prepares mechanics for real-world challenges safely and effectively. **Trainees** **practice basic tasks and complex repairs** through customizable, repeatable scenarios that mimic real-life situations. **Powered by Cognitive3D**, our platform tracks performance using detailed analytics like gaze tracking and heatmaps to measure attention to detail and identify skill gaps. Trainers can **analyze time-on-task data** to pinpoint pain points and tailor feedback to improve efficiency and skill development.
 
 ---
 
