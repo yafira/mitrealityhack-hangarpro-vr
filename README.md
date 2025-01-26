@@ -43,5 +43,5 @@ For our project we used VR tools integrated with Cognitive 3D to create a VR pre
 
 ![SampleScene2_D2025-01-25_H20-44-20_t209570ms](https://github.com/user-attachments/assets/b12042f8-b68b-4d71-b3c0-a1f4f9154a68)
 
- git![SampleScene2_D2025-01-25_H20-44-51_t279364ms](https://github.com/user-attachments/assets/ec8faa04-3176-400a-a478-eed64eea6430)
+![SampleScene2_D2025-01-25_H20-44-51_t279364ms](https://github.com/user-attachments/assets/ec8faa04-3176-400a-a478-eed64eea6430)
  
